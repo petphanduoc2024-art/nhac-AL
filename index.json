@@ -1,0 +1,22 @@
+{
+  "name": "ten-du-an-cua-ban",
+  "version": "1.0.0",
+  "description": "Mô tả ngắn gọn về dự án hoặc dữ liệu trong file này",
+  "author": "Ten_GitHub_Cua_Ban",
+  "repository": "https://github.com/Ten_GitHub_Cua_Ban/ten-du-an-cua-ban",
+  "updated_at": "2026-11-22",
+  "data": [
+    {
+      "id": 1,
+      "title": "Mục dữ liệu số 1",
+      "url": "https://example.com/item-1",
+      "active": true
+    },
+    {
+      "id": 2,
+      "title": "Mục dữ liệu số 2",
+      "url": "https://example.com/item-2",
+      "active": false
+    }
+  ]
+}
